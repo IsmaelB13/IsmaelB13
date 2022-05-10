@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**IsmaelB13/IsmaelB13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I**Mi nombre es Ismael Ballesteros**
+   Mi edad es 21 años.
+- 🔭 Estudio en la ESFOT(EPN)
+- 🌱 Me gusta estar e contacto con la naturaleza  
+- 👯 Mis pasatiempos favoritos son Programar,Jugar videojuegos y fútbol.
+- ⚡ Fun fact: Los libros de Ciencia Ficción y fantasía son mis favoritos.
+- 😄 Tener retos nuevos es esencial para crrecer como persona y profesional.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+C,C++,Python,Java.
+
+
