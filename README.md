@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🚀 About Me
-I**Mi nombre es Ismael Ballesteros**
+**Mi nombre es Ismael Ballesteros**
    Mi edad es 21 años.
 - 🔭 Estudio en la ESFOT(EPN)
 - 🌱 Me gusta estar e contacto con la naturaleza  
